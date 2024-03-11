@@ -4,6 +4,6 @@ Ressources for Modders
 
 is a mod that allows the insertion of custom animations and consists of the framework for erotic gameplay.
 
-[Adding Animations](link)
+[Adding Animations](https://github.com/Satans-Underpants/AnimationFrameworkWiki/blob/main/Modders/Adding%20Animations)
 
-[Adding Gameplay](link)
+[Adding Gameplay](https://github.com/Satans-Underpants/AnimationFrameworkWiki/blob/main/Modders/Adding%20Gameplay)
