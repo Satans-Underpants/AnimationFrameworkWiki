@@ -10,8 +10,9 @@ local sex_proxies;
 local sex_originals; 
 
 
--- Listen to a AnimationFramework specific event to occur (here - Sex started - this gives access to the "proxys - see wiki for more information")
-Ext.Osiris.RegisterListener("StatusApplied", 4, "after", function(target, status, caster, storyId)
+-- Listen to a AnimationFramework specific event to occur (here - Sex started)
+-- this gives access to the "proxys - see wiki for more information")
+Ext.Osiris.RegisterListener("StatusApplied", 4, "after", function(target, status, caster, _)
 
     if status == "SEX_ACTOR" then
 
