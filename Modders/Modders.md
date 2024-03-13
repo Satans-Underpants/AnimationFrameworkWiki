@@ -6,4 +6,4 @@ is a mod that allows the insertion of custom animations and consists of the fram
 
 [Adding Animations](https://github.com/Satans-Underpants/AnimationFrameworkWiki/blob/main/Modders/Adding%20Animations)
 
-[Adding Gameplay](https://github.com/Satans-Underpants/AnimationFrameworkWiki/blob/main/Modders/Adding%20Gameplay)
+[Adding Gameplay](https://github.com/Satans-Underpants/AnimationFrameworkWiki/blob/main/Modders/Adding%20Gameplay.md)
