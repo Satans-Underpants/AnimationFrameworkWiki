@@ -60,5 +60,7 @@ function makeHappy()
     for _, entity in pairs(sex_originals) do
         Osi.ApplyStatus(entity, "ASTARION_HAPPY", 50)
     end
+
+    sex_originals = nil
 end
 
